@@ -1,0 +1,2 @@
+\l
+psql --username=freecodecamp --dbname=postgres
